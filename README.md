@@ -15,8 +15,5 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 
-<div id="header" align="center">
-  <img src="[https://giphy.com/gifs/ralph-explosion-computer-3oKIPs1EVbbNZYq7EA.gif](https://giphy.com/embed/3oKIPs1EVbbNZYq7EA)" width="100"/>
-</div>
 
-<iframe src="https://giphy.com/embed/3oKIPs1EVbbNZYq7EA" width="480" height="260" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/ralph-explosion-computer-3oKIPs1EVbbNZYq7EA">via GIPHY</a></p>
+<div style="width:100%;height:0;padding-bottom:54%;position:relative;"><iframe src="https://giphy.com/embed/3oKIPs1EVbbNZYq7EA" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/ralph-explosion-computer-3oKIPs1EVbbNZYq7EA">via GIPHY</a></p>
