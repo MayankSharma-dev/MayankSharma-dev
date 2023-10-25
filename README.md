@@ -22,7 +22,7 @@ class About implements Me {
 
 
 
-## Reach out to me
+## Connect with me:
 <p align="left">
 <a href="https://www.linkedin.com/in/mayanksharma-dev/">
   <img alt="Mayank Sharma's LinkedIN" width="85px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
