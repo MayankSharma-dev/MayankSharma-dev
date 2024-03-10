@@ -9,7 +9,7 @@ class About implements Me {
         info.put("Name ",         " Mayank Sharma ");
         info.put("Languages ",    " Kotlin, Java, C++, C#, Python ");
         info.put("Technologies ", " App Development(Andorid), Unity, .Net ");
-        info.put("Ask Me About ", " Native Andorid Development, Kotlin, Java ");
+        info.put("Ask Me About ", " Native Android Development, Kotlin, Java ");
         info.put("Areas of Interest "," Computer Science, Biology & Technology, International Relations ");
         info.put("Education ",    " Master of Computer Application(MCA), Bachelor of Computer Application(BCA) ");
     }
