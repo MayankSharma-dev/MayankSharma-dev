@@ -9,6 +9,7 @@ class About implements Me {
         info.put("Name ",         " Mayank Sharma ");
         info.put("Languages ",    " Kotlin, Java, C++, C#, Python ");
         info.put("Technologies ", " App Development(Andorid), Unity, .Net ");
+        info.put("Currently Learning ", " Jetpack Compose ");
         info.put("Ask Me About ", " Native Android Development, Kotlin, Java ");
         info.put("Areas of Interest "," Computer Science, Biology & Technology, International Relations ");
         info.put("Education ",    " Master of Computer Application(MCA), Bachelor of Computer Application(BCA) ");
@@ -19,7 +20,6 @@ class About implements Me {
     }
 }
 ```
-
 
 
 ## Connect with me:
@@ -43,7 +43,7 @@ class About implements Me {
 <a href="https://twitter.com/Sharmaji_Mayank">
   <img alt="Mayank Sharma's Google Play" width="80" src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" />
 </a>
- <a href="ops.mayanksharma@gmail.com">
+ <a href="@gmail.com">
   <img alt="Mayank Sharma's Gmail" width="70px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a> -->
 </p>
@@ -73,6 +73,8 @@ class About implements Me {
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="45" height="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
+<img src="[https://skillicons.dev/icons?i=fastapi,firebase" alt="php" width="45" height="45"/>
+    [![My Skills](https://skillicons.dev/icons?i=fastapi,firebase)](https://skillicons.dev)
 </p>
 
 ## 📊 GitHub Stats 
