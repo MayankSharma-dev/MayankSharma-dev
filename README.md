@@ -73,8 +73,10 @@ class About implements Me {
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="45" height="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="php" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" alt="php" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="php" width="45" height="45"/>    
 </p>
-(https://skillicons.dev/icons?i=firebase,fastapi&theme=light)]
 
 ## 📊 GitHub Stats 
 ![MayankSharma-dev's Stats](https://github-readme-stats.vercel.app/api?username=MayankSharma-dev&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)<br/>
