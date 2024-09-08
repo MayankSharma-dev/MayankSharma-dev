@@ -20,7 +20,48 @@ class About implements Me {
     }
 }
 ```
+``` c++
+#include <iostream>
+#include <map>
+#include <string>
 
+class About {
+public:
+    // Static member to hold the information
+    static std::map<std::string, std::string> info;
+
+    // Static method to populate the information
+    static void dev() {
+        info["Name"] = "Mayank Sharma";
+        info["Languages"] = "Kotlin, Java, C++, C#, Python";
+        info["Technologies"] = "App Development(Android), Unity, .Net";
+        info["Currently Learning"] = "Jetpack Compose";
+        info["Ask Me About"] = "Native Android Development, Kotlin, Java";
+        info["Areas of Interest"] = "Computer Science, Biology & Technology, International Relations";
+        info["Education"] = "Master of Computer Application(MCA), Bachelor of Computer Application(BCA)";
+    }
+
+    // Main function to execute the program
+    static int main() {
+        dev();
+
+        // Print the information to console
+        for (const auto& pair : info) {
+            std::cout << pair.first << ": " << pair.second << std::endl;
+        }
+
+        return 0;
+    }
+};
+
+// Definition of the static member
+std::map<std::string, std::string> About::info;
+
+int main() {
+    return About::main();
+}
+
+```
 
 ## Connect with me:
 <p align="left">
