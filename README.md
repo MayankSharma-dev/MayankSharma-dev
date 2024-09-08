@@ -20,6 +20,7 @@ class About implements Me {
     }
 }
 ```
+<!--
 ``` c++
 #include <iostream>
 #include <map>
@@ -62,6 +63,7 @@ int main() {
 }
 
 ```
+-->
 
 ## Connect with me:
 <p align="left">
